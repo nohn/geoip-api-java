@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnohn%2Fgeoip-api-java.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnohn%2Fgeoip-api-java?ref=badge_shield)
+
 To get started, run
 
 cd source/com/maxmind/geoip/
@@ -75,3 +77,7 @@ Windows Notes
 ========================
 If it doesn't work on Windows, try to remove or comment out all the "package com.maxmind.geoip" lines 
 from all the files.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnohn%2Fgeoip-api-java.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnohn%2Fgeoip-api-java?ref=badge_large)
